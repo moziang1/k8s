@@ -40,7 +40,7 @@ vim node_exporter.yml
 
 
 
-```
+```yml
 apiVersion: extensions/v1beta1
 kind: DaemonSet
 metadata:

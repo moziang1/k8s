@@ -2,7 +2,7 @@
 
 ## YAML的应用
 
-```
+```yml
 # yaml格式的pod定义文件完整内容：
 apiVersion: v1       #必选，版本号，例如v1
 kind: Pod       #必选，Pod             //定义创建pod的类型
